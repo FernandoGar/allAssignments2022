@@ -1,0 +1,2 @@
+module assignments2022 {
+}
